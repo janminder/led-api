@@ -1,0 +1,3 @@
+blinkstick
+psutil
+Flask>=0.12
